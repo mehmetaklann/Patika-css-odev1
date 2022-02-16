@@ -1,0 +1,79 @@
+/******************  MAIN PAGE   **********************/
+h1.all {
+    
+    text-align: center;
+}
+
+
+#menu.MenuNav {
+    display: block;
+    list-style-type: none;
+    text-align: center;
+}
+#menu.MenuNav li {
+        display: inline;
+        margin: 10px;
+        position: relative;
+        font-family: 'Redressed', cursive;
+        font-size: 25px;      
+ }
+ .main-art-1  {
+    text-align: left;
+    ;
+ }
+ .main-art-2 {
+     text-align: center;
+     color:red;
+ }
+ .main-art-3 {
+     text-align: right;
+     color: navy;
+ }
+body {
+    background-color:#E5DCC3;
+}
+
+
+/******************* ABOUT-US **********************/
+
+h2 {
+    text-align: center;
+}
+p.about-p {
+    text-align: center;
+}
+
+/*************** Genel ***********/
+.all {
+    text-align: left;
+    display: block;
+    list-style-type: none;
+}
+
+.all li {
+    display: inline;
+    margin: 10px;
+    position: relative;
+    font-family: 'Redressed', cursive;
+    font-size: 15px;   
+}
+
+/*********************** COURSES ***************************/
+
+.course-list img {
+    width: 300px;
+   
+}
+.course-list {
+    text-align: center;
+   list-style-type: none;
+}
+
+h3 {
+    color: navy;
+}
+
+/******************* Contact ****************************/
+.contact-content {
+    text-align: center;
+}
